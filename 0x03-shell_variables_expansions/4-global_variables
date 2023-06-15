@@ -1,2 +1,2 @@
 i#!/bin/bash
-var_name=$(echo "$var" | cut -d '=' -f 1)
+printenv
